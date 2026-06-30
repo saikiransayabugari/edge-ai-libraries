@@ -23,7 +23,7 @@ updates:
       interval: "weekly"
     cooldown:
       default-days: 7
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 5
     groups:
       github-actions-dependency:
         applies-to: version-updates
@@ -39,7 +39,7 @@ updates:
       interval: "weekly"
     cooldown:
       default-days: 7
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 5
     groups:
       python-deps:
         applies-to: version-updates
@@ -52,7 +52,7 @@ updates:
       interval: "weekly"
     cooldown:
       default-days: 7
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 5
     groups:
       python-deps:
         applies-to: version-updates
@@ -65,7 +65,7 @@ updates:
       interval: "weekly"
     cooldown:
       default-days: 7
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 5
     groups:
       python-deps:
         applies-to: version-updates
@@ -78,7 +78,7 @@ updates:
       interval: "weekly"
     cooldown:
       default-days: 7
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 5
     groups:
       python-deps:
         applies-to: version-updates
@@ -91,7 +91,7 @@ updates:
       interval: "weekly"
     cooldown:
       default-days: 7
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 5
     groups:
       python-deps:
         applies-to: version-updates
@@ -104,7 +104,7 @@ updates:
       interval: "weekly"
     cooldown:
       default-days: 7
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 5
     groups:
       python-deps:
         applies-to: version-updates
@@ -120,7 +120,7 @@ updates:
       interval: "weekly"
     cooldown:
       default-days: 7
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 5
     groups:
       python-deps:
         applies-to: version-updates
@@ -133,7 +133,7 @@ updates:
       interval: "weekly"
     cooldown:
       default-days: 7
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 5
     groups:
       python-deps:
         applies-to: version-updates
@@ -146,7 +146,7 @@ updates:
       interval: "weekly"
     cooldown:
       default-days: 7
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 5
     groups:
       python-deps:
         applies-to: version-updates
@@ -159,7 +159,7 @@ updates:
       interval: "weekly"
     cooldown:
       default-days: 7
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 5
     groups:
       python-deps:
         applies-to: version-updates
@@ -172,7 +172,7 @@ updates:
       interval: "weekly"
     cooldown:
       default-days: 7
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 5
     groups:
       python-deps:
         applies-to: version-updates
@@ -188,7 +188,7 @@ updates:
       interval: "weekly"
     cooldown:
       default-days: 7
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 5
     groups:
       npm-deps:
         applies-to: version-updates
@@ -201,7 +201,7 @@ updates:
       interval: "weekly"
     cooldown:
       default-days: 7
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 5
     groups:
       npm-deps:
         applies-to: version-updates
@@ -214,7 +214,7 @@ updates:
       interval: "weekly"
     cooldown:
       default-days: 7
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 5
     groups:
       npm-deps:
         applies-to: version-updates
@@ -227,7 +227,7 @@ updates:
       interval: "weekly"
     cooldown:
       default-days: 7
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 5
     groups:
       npm-deps:
         applies-to: version-updates
